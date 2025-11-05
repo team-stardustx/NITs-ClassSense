@@ -1,0 +1,28 @@
+# General
+__pycache__/
+*.pyc
+.DS_Store
+*.sqlite3
+
+# Python / Pipenv
+.venv/
+.virtualenv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Django
+db.sqlite3
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+build/
+.npm
+package-lock.json
+
+# VS Code
+.vscode/
